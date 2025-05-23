@@ -7,17 +7,17 @@
  
 <h2>👨‍💻Skills and Interests:</h2>
 
-  - [Skills and Interests Repository](https://github.com/Fats00/Career-Counselling)
+  - [Skills and Interests Repository](https://github.com/Fats00/Skills-and-Interests)
     <br></br>
  
 <h2>👨‍💻Personality Assessment:</h2>
 
-  - [Personality Assessment Repository](https://github.com/Fats00/Career-Counselling)
+  - [Personality Assessment Repository](https://github.com/Fats00/Personality-Assessment)
  <br></br>
 
  <h2>👨‍💻Create a CV:</h2>
  
-  - [Create a CV Repository](https://github.com/Fats00/Career-Counselling)
+  - [Create a CV Repository](https://github.com/Fats00/Create-CV)
     <br></br>
  
 <h2>👨‍💻CV Submission:</h2>
