@@ -2,7 +2,7 @@
 <br></br>
 
 <h2>Description</h2>
-Welcome to my digital portfolio. Below are repository links that will guide you to the 5 sections I have done in order to know which career algins with my personality, skills and interests through the aid of online assessments and the "STAR" technique. The process i took to create my CV is also part of my portfolio. 
+Welcome to my digital portfolio. Below are repository links that will guide you to the 5 sections I have done in order to know which career aligns with my personality, skills and interests through the aid of online assessments and the "STAR" technique. The process I took to create my CV is also part of my portfolio. 
 Enjoy getting to know me better through my career alignment.
 <br />
 <br></br>
