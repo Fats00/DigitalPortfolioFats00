@@ -2,30 +2,28 @@
 
 <h2>👨‍💻Career Counselling:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Fats00/Career-Counselling))
+  - [Career Counseling Repository](https://github.com/Fats00/Career-Counselling)
+ <br></br>
  
-  
+<h2>👨‍💻Skills and Interests:</h2>
+
+  - [Skills and Interests Repository](https://github.com/Fats00/Career-Counselling)
+    <br></br>
  
-<h2>👨‍💻Career Counselling:</h2>
+<h2>👨‍💻Personality Assessment:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Fats00/Career-Counselling))
+  - [Personality Assessment Repository](https://github.com/Fats00/Career-Counselling)
+ <br></br>
+
+ <h2>👨‍💻Create a CV:</h2>
  
-<h2>👨‍💻Career Counselling:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Fats00/Career-Counselling))
-
- <h2>👨‍💻Career Counselling:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Fats00/Career-Counselling))
+  - [Create a CV Repository](https://github.com/Fats00/Career-Counselling)
+    <br></br>
  
-<h2>👨‍💻Career Counselling:</h2>
+<h2>👨‍💻CV Submission:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/Fats00/Career-Counselling))
+- [CV Submission Repository](https://github.com/Fats00/CV-Submission/blob/main/README.md)
+  <br></br>
 
 
 
