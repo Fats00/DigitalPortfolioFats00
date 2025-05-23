@@ -10,7 +10,7 @@ Enjoy getting to know me better through my career alignment.
 
 <h2>👨‍💻Career Counselling:</h2>
 
-  - [Career Counseling Repository](https://github.com/Fats00/Career-Counselling)
+  - [Career Counselling Repository](https://github.com/Fats00/Career-Counselling)
  <br></br>
  
 <h2>👨‍💻Skills and Interests:</h2>
