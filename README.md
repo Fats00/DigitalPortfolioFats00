@@ -15,9 +15,9 @@
   - [Personality Assessment Repository](https://github.com/Fats00/Personality-Assessment)
  <br></br>
 
- <h2>👨‍💻Create a CV:</h2>
+ <h2>👨‍💻Create CV:</h2>
  
-  - [Create a CV Repository](https://github.com/Fats00/Create-CV)
+  - [Create CV Repository](https://github.com/Fats00/Create-CV)
     <br></br>
  
 <h2>👨‍💻CV Submission:</h2>
